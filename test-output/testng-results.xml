@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-02-21T16:02:25 PKT" name="Suite" finished-at="2025-02-21T16:03:02 PKT" duration-ms="36968">
+    <groups>
+    </groups>
+    <test started-at="2025-02-21T16:02:25 PKT" name="ChormeTest" finished-at="2025-02-21T16:03:02 PKT" duration-ms="36933">
+      <class name="SyntecX.CLRMIS.andrajEDastavezaat">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:SyntecX.CLRMIS.andrajEDastavezaat@2d3379b4]" started-at="2025-02-21T16:02:25 PKT" name="setup" finished-at="2025-02-21T16:02:36 PKT" duration-ms="10443" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="andrajEDastavezaat()[pri:1, instance:SyntecX.CLRMIS.andrajEDastavezaat@2d3379b4]" started-at="2025-02-21T16:02:36 PKT" name="andrajEDastavezaat" finished-at="2025-02-21T16:02:51 PKT" duration-ms="14937" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- andrajEDastavezaat -->
+        <test-method signature="talashTabdeliDocument()[pri:2, instance:SyntecX.CLRMIS.andrajEDastavezaat@2d3379b4]" started-at="2025-02-21T16:02:51 PKT" name="talashTabdeliDocument" finished-at="2025-02-21T16:02:54 PKT" duration-ms="3701" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- talashTabdeliDocument -->
+        <test-method signature="registryAndraj()[pri:3, instance:SyntecX.CLRMIS.andrajEDastavezaat@2d3379b4]" started-at="2025-02-21T16:02:54 PKT" name="registryAndraj" finished-at="2025-02-21T16:02:59 PKT" duration-ms="4413" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registryAndraj -->
+        <test-method signature="tabdeliRegistry()[pri:4, instance:SyntecX.CLRMIS.andrajEDastavezaat@2d3379b4]" started-at="2025-02-21T16:02:59 PKT" name="tabdeliRegistry" finished-at="2025-02-21T16:03:02 PKT" duration-ms="3315" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tabdeliRegistry -->
+      </class> <!-- SyntecX.CLRMIS.andrajEDastavezaat -->
+    </test> <!-- ChormeTest -->
+    <test started-at="2025-02-21T16:03:02 PKT" name="firefoxTest" finished-at="2025-02-21T16:03:02 PKT" duration-ms="5">
+    </test> <!-- firefoxTest -->
+    <test started-at="2025-02-21T16:03:02 PKT" name="edgeTest" finished-at="2025-02-21T16:03:02 PKT" duration-ms="0">
+    </test> <!-- edgeTest -->
+  </suite> <!-- Suite -->
+</testng-results>
